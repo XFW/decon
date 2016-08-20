@@ -10,4 +10,4 @@ the deconvolution estimators computationally more efficient in R, we adapt the F
 algorithm for density estimation with error-free data to the deconvolution kernel 
 estimation. Several bandwidth selection functions are also developed in the package.
 
-This is the newest version.
+This is the newest version. Test 2
